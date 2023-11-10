@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/kseaa/OneDrive/Documents/GitHub/Project_Salamander-/Salamander/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/kseaa/OneDrive/Documents/GitHub/Project_Salamander-/Salamander/Content/KC/Kclevel.umap"
+			]
+		}
+	]
+}
